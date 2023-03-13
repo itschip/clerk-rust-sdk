@@ -1,10 +1,14 @@
 [package]
-name = "openapi"
-version = "1"
-authors = ["support@clerk.dev"]
+name = "clerk-sdk-rust-community"
+version = "1.0.0"
+authors = ["support@clerk.dev", "itschip"]
 description = "The Clerk REST Backend API, meant to be accessed by backend servers. Please see https://clerk.dev/docs for more information."
 license = "MIT"
 edition = "2018"
+repsoitory = "https://github.com/itschip/clerk-sdk-rust-community"
+readme = "README.md"
+homepage = "https://github.com/itschip/clerk-sdk-rust-community"
+documentation = "https://github.com/itschip/clerk-sdk-rust-community"
 
 [dependencies]
 serde = "^1.0"
