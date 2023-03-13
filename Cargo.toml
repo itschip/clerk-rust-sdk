@@ -1,6 +1,6 @@
 [package]
 name = "clerk-sdk-rust-community"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["support@clerk.dev", "itschip"]
 description = "The Clerk REST Backend API, meant to be accessed by backend servers. Please see https://clerk.dev/docs for more information."
 license = "MIT"
